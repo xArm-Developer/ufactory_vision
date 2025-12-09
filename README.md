@@ -13,7 +13,7 @@
 | Robot Arm Model             | Camera Model                                      | End Effector          |
 | --------------------------- | ------------------------------------------------- | --------------------- |
 | xArm 5/6/7 or 850           | Intel Realsense D435/D555, Luxonis OAK-D-Pro-PoE      | UFACTORY GripperG1/G2      |
-| Lite 6                      | Intel Realsense D435 / Luxonis OAK-D-Pro-PoE      | Lite 6 Vacuum Gripper |
+| Lite 6                      | Intel Realsense D435 / Luxonis OAK-D-Pro-PoE      | Vacuum Gripper Lite |
 
 * Configuration with Intel Realsense D435 Camera: [Readme](/ggcnn_grasping_demo/example/realsense_d435/README.md)
 * Configuration with Intel Realsense D555 Camera: [Readme](/ggcnn_grasping_demo/example/realsense_d555/README.md)
@@ -21,9 +21,11 @@
 
 ## Videos
 * Customized 850 + Realsense D555 + UFACTORY Gripper G2
+[![Watch the video](assets/realsense_d555.jpg)](https://www.youtube.com/watch?v=c6AeUTJM0QI)
 * xArm6 + Realsense D435 + UFACTORY Gripper G1
 [![Watch the video](assets/realsense_d435.jpg)](https://www.youtube.com/watch?v=ijnuqsNcfUY)
-* Lite6 + Luxonis OAK-D-Pro-PoE + Vacuum Gripper Lite
+* Lite6 + Luxonis OAK-D-Pro-PoE + Vacuum Gripper Lite  
+  [![Watch the video](assets/Luxonis_OAK_D_Pro_PoE.jpg)](https://www.youtube.com/watch?v=1YU0nfNcqYg)
 
 ## Important Notes
 

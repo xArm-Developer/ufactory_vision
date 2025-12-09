@@ -20,9 +20,11 @@
 
 ## 视频演示
 * 定制850（1000M内置网线） + Realsense D555 + 内部网线走线 + UFACTORY 机械爪G2
-* xArm6 + Realsense D435 + 外部USB走线 + UFACTORY 机械爪G1
+  [![Watch the video](assets/realsense_d555.jpg)](https://www.bilibili.com/video/BV1PC2SBcEcr/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9cdbfdb03a35ac858f97ba3ca89dc358)
+* xArm6 + Realsense D435 + 外部USB走线 + UFACTORY 机械爪G1  
   [![Watch the video](assets/realsense_d435.jpg)](https://www.bilibili.com/video/BV1V9ABewE9Q/?spm_id_from=333.1387.upload.video_card.click&vd_source=9cdbfdb03a35ac858f97ba3ca89dc358)
-* Lite6 + Luxonis OAK-D-Pro-PoE + 外部网线走线 + 真空吸头
+* Lite6 + Luxonis OAK-D-Pro-PoE + 外部网线走线 + 真空吸头  
+  [![Watch the video](assets/Luxonis_OAK_D_Pro_PoE.jpg)](https://www.bilibili.com/video/BV1PA2SBtEuJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9cdbfdb03a35ac858f97ba3ca89dc358)
 
 ## 重要提示
 
