@@ -7,7 +7,7 @@
 - **摄像头**: [Intel RealSense D555](https://realsenseai.com/products/d555-poe/)
 - **POE供电器**: Tenda POE30G-AT, 1000M, 30W (或其他品牌)
 - **摄像头支架**: UFACTORY 提供 (使用 3D 文件进行 3D 打印或 CNC 加工)
-  - 3D 文件下载: [D555_Camera_Stand.STEP](http://www.ufactory.cc/wp-content/uploads/2025/12/D555_Camera_Stand.zip)
+  - 3D 文件下载: [D555_Camera_Stand.STEP](https://www.ufactory.cc/wp-content/uploads/2025/12/D555_Camera_Stand.zip)
 
 
 ## 850末端网口定义
