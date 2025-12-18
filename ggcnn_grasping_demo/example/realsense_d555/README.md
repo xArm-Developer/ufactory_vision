@@ -7,7 +7,7 @@
 -   **Camera**: [Intel RealSense D555](https://realsenseai.com/products/d555-poe/)
 -   **PoE Injector**: Tenda POE30G-AT, 1000M, 30W (Other brands will also work)
 -   **Camera Mount**: Provided by UFACTORY (3D printing or CNC with 3D file)
-    -   3D File Download: [D555_Camera_Stand.STEP](http://www.ufactory.cc/wp-content/uploads/2025/12/D555_Camera_Stand.zip)
+    -   3D File Download: [D555_Camera_Stand.STEP](https://www.ufactory.cc/wp-content/uploads/2025/12/D555_Camera_Stand.zip)
 
 ## 850 User Ethernet Port
 The standard 850 robotic arm is internally equipped with a 100M Ethernet cable compliant with standard CAT5, connecting from the base to the end of the arm. This Ethernet port can be used if internal wiring is required.
