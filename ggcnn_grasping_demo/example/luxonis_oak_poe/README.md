@@ -7,7 +7,7 @@
 -   **Camera**: [OAK-D Pro PoE](https://shop.luxonis.com/products/oak-d-pro-poe?variant=42469208883423)
 -   **PoE Injector**: Tenda POE30G-AT, 1000M, 30W (Other brands will also work)
 -   **Camera Mount**: Provided by UFACTORY (3D printing or CNC with 3D file)
-    -   3D File Download: [OAK_Camera_Stand.STEP](http://www.ufactory.cc/wp-content/uploads/2025/12/oak_camera_stand.zip)
+    -   3D File Download: [OAK_Camera_Stand.STEP](https://www.ufactory.cc/wp-content/uploads/2025/12/oak_camera_stand.zip)
 
 ## Software
 
