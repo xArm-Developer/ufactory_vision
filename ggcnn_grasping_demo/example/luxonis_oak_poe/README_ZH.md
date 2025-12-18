@@ -6,7 +6,7 @@
 - **摄像头**: [OAK-D Pro PoE](https://shop.luxonis.com/products/oak-d-pro-poe?variant=42469208883423)
 - **POE供电器**: Tenda POE30G-AT, 1000M, 30W (或其他品牌)
 - **摄像头支架**: UFACTORY 提供 (使用 3D 文件进行 3D 打印或 CNC 加工)
-  - 3D 文件下载: [OAK_Camera_Stand.STEP](http://www.ufactory.cc/wp-content/uploads/2025/12/oak_camera_stand.zip)
+  - 3D 文件下载: [OAK_Camera_Stand.STEP](https://www.ufactory.cc/wp-content/uploads/2025/12/oak_camera_stand.zip)
 
 
 ## 软件
